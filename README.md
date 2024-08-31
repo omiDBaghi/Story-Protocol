@@ -39,11 +39,11 @@
 Detach the session by Ctrl+A+D
 
 
-## Install Go Language
+## Init Story
 
     screen -S Story
     story init  --network iliad --moniker {NAME}
-Install Go Language
+
 
     story run
 
