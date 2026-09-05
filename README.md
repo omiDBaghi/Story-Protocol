@@ -1,7 +1,5 @@
 # Validator
-
 ## Install Dependencies
-
     sudo apt update
     sudo apt install curl git make jq build-essential gcc unzip wget lz4 aria2 pv -y
     
